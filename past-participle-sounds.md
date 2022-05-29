@@ -16,6 +16,7 @@ The sound would be `id`
 - EXAMPLES
   - call ==> called ==> calld
   - clean ==> cleaned ==> cleand
+  - clean ==> cleaned ==> cleand
   - offer ==> offered ==> offerd
   - damage ==> damaged ==> damaged
   - love ==> loved ==> loved
